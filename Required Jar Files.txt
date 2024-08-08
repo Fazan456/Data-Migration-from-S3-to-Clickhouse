@@ -1,0 +1,6 @@
+Required Jar Files:
+
+clickhouse-jdbc-0.4.0-all.jar
+hadoop-aws-3.3.2.jar
+aws-java-sdk-bundle-1.11.1026.jar
+snappy-java-1.1.8.4.jar
